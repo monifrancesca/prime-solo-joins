@@ -19,12 +19,12 @@
         In the dialog, give your database a name (your choice)
         Click on the OK tab/button to save your database
         Open the SQL editor
-        Paste everything from this file (https://drive.google.com/file/d/0B10Wu-zrSBwMYTJUMkM3MWxnM1E/view?usp=sharing) into a textbox
+        [Paste everything from this file] (https://drive.google.com/file/d/0B10Wu-zrSBwMYTJUMkM3MWxnM1E/view?usp=sharing) into a textbox
         Click the green run button to create our tables and data!
 
     Entity Relationship Diagram (ERD)
 
-    See a diagram of the available entities and their relationships. (https://docs.google.com/drawings/d/1AyIEFz6pvTtVZJ8M9GCJD38WNZ3ylJT0Pc1YB9P5sX8/edit?usp=sharing)
+    [See a diagram of the available entities and their relationships.] (https://docs.google.com/drawings/d/1AyIEFz6pvTtVZJ8M9GCJD38WNZ3ylJT0Pc1YB9P5sX8/edit?usp=sharing)
 
     NOTE: Remember that a many-to-many relationship requires a join table, so the entities in the diagram may be missing some actual tables. Explore the tables in your database.
     GitHub repo
