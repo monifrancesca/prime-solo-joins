@@ -24,7 +24,7 @@
 
     Entity Relationship Diagram (ERD)
 
-    See a diagram of the available entities and their relationships. https://docs.google.com/drawings/d/1AyIEFz6pvTtVZJ8M9GCJD38WNZ3ylJT0Pc1YB9P5sX8/edit?usp=sharing
+    See a diagram of the available entities and their relationships. (https://docs.google.com/drawings/d/1AyIEFz6pvTtVZJ8M9GCJD38WNZ3ylJT0Pc1YB9P5sX8/edit?usp=sharing)
 
     NOTE: Remember that a many-to-many relationship requires a join table, so the entities in the diagram may be missing some actual tables. Explore the tables in your database.
     GitHub repo
